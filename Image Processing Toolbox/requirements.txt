@@ -1,0 +1,6 @@
+wxPython
+opencv-python
+eel
+eel[jinja2]
+numpy
+matplotlib
